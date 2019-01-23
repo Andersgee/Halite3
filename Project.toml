@@ -1,0 +1,6 @@
+authors = ["andy <andersgee@gmail.com>"]
+name = "Halite3"
+uuid = "3aba7f08-1970-11e9-3c0f-afe80b1a863e"
+version = "0.1.0"
+
+[deps]
